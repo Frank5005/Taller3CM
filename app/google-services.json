@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "571914983137",
+    "firebase_url": "https://taller3-65efd-default-rtdb.firebaseio.com",
+    "project_id": "taller3-65efd",
+    "storage_bucket": "taller3-65efd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571914983137:android:0463f30a279b98cc3c89a0",
+        "android_client_info": {
+          "package_name": "com.jps.taller3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571914983137-p9bibv88e8el0l8lr3gmqtimbnvije58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjZ9Lvp9Y6kfdwoCmQTqoItIWRa_YEky0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "571914983137-p9bibv88e8el0l8lr3gmqtimbnvije58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
